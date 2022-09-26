@@ -44,4 +44,11 @@ Observação: o nome do arquivo .java deve ser o mesmo que o nome da class do c�
 
 No terminal, dentro do diretório do arquivo, basta digitar `java nome-do-arquivo`, sem o .java ou .class, ou seja, apenas ficará o nome da class dessa forma: `java nome-da-class`.
 
-Observação: o comando `java` executa a JVM no qual será responsável por interpretar os bytecodes e executar no sistema operacional em que esteja utilizando.  
+Observação: o comando `java` executa a JVM no qual será responsável por interpretar os bytecodes e executar no sistema operacional em que esteja utilizando.
+
+---
+
+## Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/96630233?s=400&u=3400cfe6ba8fb87692f4f14cbdbef3e5cc996b67&v=4" width=115><br><sub>Luís Henrique Perna</sub>](https://github.com/luishperna) |
+| :---: |
