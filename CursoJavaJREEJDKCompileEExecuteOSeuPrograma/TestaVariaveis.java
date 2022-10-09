@@ -1,3 +1,4 @@
+package CursoJavaJREEJDKCompileEExecuteOSeuPrograma;
 
 /* Nome da classe em CamelCase */
 public class TestaVariaveis {

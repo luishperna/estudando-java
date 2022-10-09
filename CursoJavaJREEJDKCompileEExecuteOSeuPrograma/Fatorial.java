@@ -1,3 +1,4 @@
+package CursoJavaJREEJDKCompileEExecuteOSeuPrograma;
 
 class Fatorial {
     public static void main(String[] args) {
