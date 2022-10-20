@@ -25,6 +25,15 @@ public class CriaConta {
 		// Os valores default para as classes são zero
 		System.out.println(primeiraConta.agencia);
 		System.out.println(primeiraConta.numero);
+		
+		if (primeiraConta == segundaConta) {
+			System.out.println("São a mesma conta");
+		} else {
+			
+		} System.out.println("Contas diferentes");
+		
+		System.out.println(primeiraConta);
+		System.out.println(segundaConta);
 	}
 
 }
